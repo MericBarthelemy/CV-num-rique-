@@ -1,0 +1,21 @@
+...
+
+<head>
+
+...
+
+<style>
+  body{
+    font-family: Arial;
+    background-color:#f4f4f4;
+  }
+  h1{
+    color:blue;
+  }
+  h2{
+    color:#2c3e50;
+  }
+</style>
+</head>
+
+...
